@@ -1,3 +1,15 @@
+"""
+Escrever um programa que lê um valor em reais e calcule qual o menor número
+possível de notas de 100, 50, 10, 5 e 1 em que o valor lido pode ser decomposto. Escrever
+o valor lido e a relação de notas necessárias.
+Por exemplo: valor = R$ 238,00
+notas de 100: 2
+notas de 50: 0
+notas de 10: 3
+notas de 5: 1
+notas de 1: 3
+"""
+
 valor = int(input('Digite o valor:'))
 
 nota100 = 0
