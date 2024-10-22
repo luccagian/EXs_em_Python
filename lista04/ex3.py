@@ -1,3 +1,8 @@
+"""
+Escreva um programa que leia 10 números inteiros. Para cada número lido, informe se
+é par ou ímpar. Ao final, mostre o maior e o menor número lido.
+"""
+
 cont = 1
 
 
