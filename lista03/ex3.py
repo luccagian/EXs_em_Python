@@ -1,3 +1,7 @@
+"""
+Escreva um programa que leia três números inteiros, em seguida determine e mostre o
+maior deles.
+"""
 n1 = int(input('Digite 1 numero:'))
 n2 = int(input('Digite 2 numero:'))
 n3 = int(input('Digite 3 numero:'))
