@@ -1,3 +1,7 @@
+"""
+Escreva um programa que leia 10 números e conte e mostre quantos são os números
+negativos. Em seguida, o programa deve mostrar o maior número lido.
+"""
 neg = 0
 numbma = 0
 for n in range(10):
