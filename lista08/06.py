@@ -1,3 +1,17 @@
+"""
+Faça um programa em Python que apresente o menu abaixo:
+1 – Cadastrar multa (placa, valor)
+2 – Buscar multa pela placa
+3 – Listar todas as multas
+4 – Exibir placa/multa referente ao valor mais alto e mais baixo
+5 – Calcular o valor médio de todas as multas
+6 – Sair
+Utilize obrigatoriamente um dicionário para armazenar os dados e implemente uma função
+para cada item do menu.
+O dicionário deve ser inicializado com os valores abaixo:
+"""
+
+
 multas = {
 'ABC1234': 150.50,
 'DEF5678': 200.75,
