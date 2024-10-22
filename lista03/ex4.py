@@ -1,3 +1,8 @@
+"""
+Escreva um programa que leia três números inteiros, em seguida apresente esses
+números em ordem crescente
+"""
+
 n1 = int(input('Digite 1 numero:'))
 n2 = int(input('Digite 2 numero:'))
 n3 = int(input('Digite 3 numero:'))
