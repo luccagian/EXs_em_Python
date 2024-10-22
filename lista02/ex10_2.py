@@ -1,7 +1,7 @@
 """
-Leia o salário de um trabalhador e o valor da prestação de um empréstimo. Se a
-prestação for maior que 20% do salário imprima: "Empréstimo não concedido", caso
-contrário imprima: "Empréstimo concedido".
+Escrever um algoritmo que leia o nome e as três notas obtidas por um aluno durante o
+semestre. Calcular a sua média (aritmética), informar o nome e sua menção aprovado
+(média >= 7), Reprovado (média <= 5) e Recuperação (média entre 5.1 a 6.9).
 """
 
 nome = input('Digite se unome completo')
