@@ -1,3 +1,8 @@
+"""
+Faça uma função que receba 3 números inteiros como parâmetro, representando horas,
+minutos e segundos, e os converta em segundos.
+"""
+
 def seg(h,m,s):
     s1 = h * 3600
     s2 = m * 60
