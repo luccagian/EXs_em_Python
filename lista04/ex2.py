@@ -1,3 +1,8 @@
+"""
+Escreva um programa que leia a altura de 10 pessoas. Em seguida, o programa deve
+mostrar a maior altura lida.
+"""
+
 pe = 1
 altm = 0
 
