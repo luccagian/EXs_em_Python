@@ -1,3 +1,12 @@
+"""
+Preencha uma lista com 10 números digitados pelo usuário e exiba:
+a) o maior número da lista
+b) o menor número da lista
+c) a quantidade de números pares da lista
+d) a média dos números contidos na lista
+e) todos os números menores do que a média calculada no item anterior
+"""
+
 par = 0
 lista = []
 
