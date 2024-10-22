@@ -1,3 +1,8 @@
+"""
+Escreva um programa que calcule a soma de todos os números pares entre 2 e 100
+(inclusive)
+"""
+
 n = 0
 soma = 0 
 
