@@ -1,3 +1,7 @@
+"""
+Faça um programa que receba dois números e mostre qual deles é o maior
+"""
+
 n1 = int(input('escreva o primeiro numero: '))
 n2 = int(input('escreva o segundo numero: '))
 
