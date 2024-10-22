@@ -1,3 +1,14 @@
+"""
+No correio local há somente selos de 3 e de 5 centavos. A taxa mínima para
+correspondência é de 8 centavos. Faça um programa que determina o menor número de
+selos de 3 e de 5 centavos que completam o valor de uma taxa dada.
+Exemplo:
+8 centavos: 1 selo de 3 centavos e 1 selo de 5 centavos.
+9 centavos: 3 selos de 3 centavos e 0 selo de 5 centavos.
+10 centavos: 0 selos de 3 centavos e 2 selos de 5 centavos.
+11 centavos: 2 selos de 3 centavos e 1 selo de 5 centavos.
+12 centavos: 4 selos de 3 centavos e 0 selo de 5 centavos.
+"""
 taxa = int(input('Digite a taxa em centavos:'))
 
 selo3 = 3
