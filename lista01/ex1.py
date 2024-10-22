@@ -1,3 +1,9 @@
+"""
+Um fabricante vendeu 120 unidades de um produto que custa R$40,00 cada. Sobre o
+valor vendido, o fabricante paga 40% de imposto. Escreva um programa que calcule o valor
+de imposto a ser pago.
+"""
+
 uni = 120
 preço = 40
 
